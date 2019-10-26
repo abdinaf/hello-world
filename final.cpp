@@ -1,11 +1,7 @@
 /*
 ********PRGRAMMING ASSIGNMENT***********
        Name                            ID
-1.Abreham Gezahegn.................. ETS0062/10
-2.Azaria Gebremichael............... ETS0181/10
-3.Asdenaki Tamirat.................. ETS0159/10
-4.Chera Weltaji..................... ETS0323/10
-5.Abdinaf Tufa...................... ETS0001/10
+Abdinaf Tufa...................... ETS0001/10
 */
 
 #include<iostream>
